@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/open_in_TMDB"
+        android:id="@+id/home_page_carousel_card_menu_open_in_TMDB"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="@string/share_on_facebook"
+        android:id="@+id/home_page_carousel_card_menu_share_on_fb"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="@string/share_on_Twitter"
+        android:id="@+id/home_page_carousel_card_menu_share_on_twitter"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="@string/add_to_watchlist"
+        android:id="@+id/home_page_carousel_card_menu_add_to_watchlist"
+        app:showAsAction="never"/>
+
+</menu>

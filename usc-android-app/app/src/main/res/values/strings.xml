@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">USC Films</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_watchlist">Watchlist</string>
+    <string name="network_host">https://usc-android-backend-dot-search-movie-tv-database.uc.r.appspot.com/</string>
+    <string name="sample_banner_image">https://image.tmdb.org/t/p/w500/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg</string>
+    <string name="movie">movie</string>
+    <string name="tv">tv</string>
+    <string name="open_in_TMDB">Open in TMDB</string>
+    <string name="share_on_facebook">Share on Facebook</string>
+    <string name="share_on_Twitter">Share on Twitter</string>
+    <string name="add_to_watchlist">Add to watchlist</string>
+    <string name="USC_Films">USC Films</string>
+    <string name="watchlist">watchlist</string>
+    <string name="default_object">{}</string>
+    <string name="Add_to_watchlist">Add to watchlist</string>
+    <string name="Remove_from_watchlist">Remove from watchlist</string>
+    <string name="Removed_from_watchlist">removed from watchlist</string>
+    <string name="Added_to_watchlist">added to watchlist</string>
+    <string name="NothingsavedtoWatchlist">Nothing saved to Watchlist</string>
+    <string name="tmdb_movie_page">https://www.themoviedb.org/movie/</string>
+    <string name="tmdb_tv_page">https://www.themoviedb.org/tv/</string>
+    <string name="share_on_facebook_url">https://www.facebook.com/sharer/sharer.php?u=</string>
+    <string name="youtube_video_url">https://www.youtube.com/watch?v=</string>
+    <string name="twitter_page">https://twitter.com/intent/tweet?text=</string>
+    <string name="youtube_api_key">AIzaSyDJyX2cVGzHZgZ9ZLi2TekxOBQOCY1huRc</string>
+    <string name="no_results_found">No results found</string>
+    <string name="default_backdrop">https://bytes.usc.edu/cs571/s21_JSwasm00/hw/HW6/imgs/movie-placeholder.jpg</string>
+    <string name="tmdb_homepage">https://www.themoviedb.org/</string>
+</resources>
